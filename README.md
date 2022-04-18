@@ -1,16 +1,19 @@
-### Hi there 👋
+# xThoms
+## Python development student
 
-<!--
-**xThoms/xThoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[My Stackoverflow👀](https://stackoverflow.com/users/18253823/xthoms)
 
-Here are some ideas to get you started:
+Hi, I'm xThoms, I'm currently learning about web based programming and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm from Colombia
+- My native language is Spanish🙂
+- I have basic knowledge in English
+
+## Knowledge
+
+Libraries and languages I handle:
+
+- [Python] I have basic knowledge in Python
+- [Discord.py] I have experience using the Discord.py library to create bots in Discord
+- [JavaScript] I'm interested, but not yet and thoroughly investigated
+- [Java] I know the basics, but I didn't use it much
