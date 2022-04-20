@@ -13,7 +13,7 @@ Hi, I'm xThoms, I'm currently learning about web based programming and software 
 
 Libraries and languages I handle:
 
-- [Python] I have basic knowledge in Python
+- [Python] I'm learning Python until I'm proficient
 - [Discord.py] I have experience using the Discord.py library to create bots in Discord
 - [JavaScript] I'm interested, but not yet and thoroughly investigated
 - [Java] I know the basics, but I didn't use it much
