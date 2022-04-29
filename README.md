@@ -3,11 +3,13 @@
 
 [My Stackoverflow👀](https://stackoverflow.com/users/18253823/xthoms)
 
-Hi, I'm xThoms, I'm currently learning about web based programming and software development.
+Hi, I'm xThoms, I'm currently learning about web programming and software development.
 
 - I'm from Colombia
+- My favorite video game is Minecraft
 - My native language is Spanish🙂
 - I have basic knowledge in English
+
 
 ## Knowledge
 
