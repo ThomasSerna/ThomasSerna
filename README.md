@@ -2,6 +2,7 @@
 ## Python development student
 
 [My Stackoverflow👀](https://stackoverflow.com/users/18253823/xthoms)
+[My LinkedIn👁‍🗨](https://www.linkedin.com/in/thomas-serna-607650239/)
 
 Hi, I'm xThoms, I'm currently learning about web programming and software development.
 
