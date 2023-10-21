@@ -7,7 +7,6 @@
 Hi, I'm xThoms, I'm currently learning about web programming and software development.
 
 - I'm from Colombia
-- My favorite video game is Minecraft
 - My native language is Spanish🙂
 - I have basic knowledge in English
 
