@@ -1,4 +1,4 @@
-# Thomas Serna | Apasionado por la Tecnología y el Desarrollo
+# Thomas Serna
 
 Soy estudiante de Ingeniería de Sistemas en la Universidad EAFIT, actualmente cursando el segundo semestre. Tengo 17 años y me apasiona el desarrollo de software, el análisis de datos y la automatización de procesos. Utilizo este espacio para compartir mis proyectos, tareas y recursos que he desarrollado a lo largo de mi formación académica y de manera autodidacta.
 
