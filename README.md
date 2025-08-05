@@ -1,6 +1,6 @@
 # Thomas Serna
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad EAFIT, actualmente cursando el segundo semestre. Tengo 17 años y me apasiona el desarrollo de software, el análisis de datos y la automatización de procesos. Utilizo este espacio para compartir mis proyectos, tareas y recursos que he desarrollado a lo largo de mi formación académica y de manera autodidacta.
+Soy estudiante de Ingeniería de Sistemas en la Universidad EAFIT, actualmente cursando el segundo semestre. Tengo 17 años y me apasiona el desarrollo de software, el análisis de datos y la automatización de tareas.
 
 ## Sobre mí
 
@@ -27,3 +27,9 @@ Me interesa seguir profundizando en el desarrollo backend, la inteligencia artif
 ---
 
 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/thomas-serna-saldarriaga-607650239/)
+
+## GitHub Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanesNico&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanesNico&layout=compact&langs_count=8&theme=algolia"/>
+</p>
