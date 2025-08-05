@@ -25,9 +25,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad EAFIT, actualmente c
 Me interesa seguir profundizando en el desarrollo backend, la inteligencia artificial y las tecnologías emergentes. Busco mejorar mis habilidades constantemente y contribuir con proyectos útiles para la comunidad.
 
 ## GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThomasSerna&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThomasSerna&layout=compact&langs_count=8&theme=algolia"/>
 
 ---
 
