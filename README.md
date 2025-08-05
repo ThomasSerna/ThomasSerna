@@ -24,12 +24,13 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad EAFIT, actualmente c
 
 Me interesa seguir profundizando en el desarrollo backend, la inteligencia artificial y las tecnologías emergentes. Busco mejorar mis habilidades constantemente y contribuir con proyectos útiles para la comunidad.
 
+## GitHub Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThomasSerna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThomasSerna&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
 ---
 
 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/thomas-serna-saldarriaga-607650239/)
 
-## GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanesNico&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanesNico&layout=compact&langs_count=8&theme=algolia"/>
-</p>
