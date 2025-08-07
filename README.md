@@ -29,5 +29,5 @@ Me interesa seguir profundizando en el desarrollo backend, la inteligencia artif
 
 ---
 
-Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/thomas-serna-saldarriaga-607650239/)
+Contactame en [LinkedIn](https://www.linkedin.com/in/thomas-serna-saldarriaga-607650239/)
 
