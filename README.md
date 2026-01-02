@@ -1,6 +1,6 @@
 # Thomas Serna
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad EAFIT, actualmente cursando el segundo semestre. Tengo 17 años y me apasiona el desarrollo de software, el análisis de datos y la automatización de tareas.
+Soy estudiante de Ingeniería de Sistemas en la Universidad EAFIT, actualmente cursando el tercer semestre. Tengo 17 años y me apasiona el desarrollo de software, el análisis de datos y la automatización de tareas.
 
 ## Sobre mí
 
