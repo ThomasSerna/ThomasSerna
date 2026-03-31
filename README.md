@@ -1,33 +1,75 @@
 # Thomas Serna
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad EAFIT, actualmente cursando el tercer semestre. Tengo 17 años y me apasiona el desarrollo de software, el análisis de datos y la automatización de tareas.
+I am a Systems Engineering student at Universidad EAFIT, currently in my third semester. I am passionate about software development, backend engineering, and exploring emerging technologies, especially in artificial intelligence and distributed systems.
 
-## Sobre mí
+## About Me
 
-- 🎓 Ingeniería de Sistemas, Universidad EAFIT (segundo semestre)
-- 🗣️ Español nativo | Inglés nivel B2
-- 💻 17 años
+- 🎓 Systems Engineering, Universidad EAFIT (3rd semester)
+- 🗣️ Languages: Spanish (Native) | English (C1) | French (A1)
+- 💡 Strong interest in backend development, system design, and AI
 
-## Habilidades
+## Technical Skills
 
-- **Python:** Experiencia en desarrollo de scripts, automatización, bots y proyectos personales.
-- **Java:** Conocimientos sólidos en programación orientada a objetos y desarrollo de aplicaciones básicas.
-- **Desarrollo de bots y herramientas:** He creado soluciones prácticas como bots para Discord y utilidades para plataformas como YouTube.
+### Programming Languages
+- **Java:** Solid understanding of OOP, collections, exception handling, and application structure
+- **Python:** Automation, scripting, data handling, and small-scale tools
+- **C++:** Experience building backend services (e.g., file processing and sorting systems using Crow)
 
-## ¿Qué puedes encontrar en mis repositorios?
+### Backend & Frameworks
+- **Spring Boot:** REST API development, dependency injection, layered architecture
+- **Spring Security:** Authentication and authorization handling
+- **RESTful API Design:** Clean endpoint structuring and best practices
 
-- Proyectos académicos organizados por asignaturas y semestres.
-- Mini proyectos personales enfocados en el aprendizaje y la aplicación de nuevas tecnologías.
-- Herramientas y recursos útiles para estudiantes y entusiastas del desarrollo.
+### Databases & Persistence
+- **MySQL:** Relational modeling and queries
+- **MongoDB:** NoSQL document-based storage and integration
+- Experience working with hybrid persistence systems (SQL + NoSQL)
 
-## Intereses
+### Software Engineering Concepts
+- Software Development Life Cycle (SDLC)
+- Design patterns and clean architecture principles
+- UML diagrams and system modeling
+- Exception handling and API response standardization
 
-Me interesa seguir profundizando en el desarrollo backend, la inteligencia artificial y las tecnologías emergentes. Busco mejorar mis habilidades constantemente y contribuir con proyectos útiles para la comunidad.
+### Tools & Technologies
+- **Docker & Docker Compose:** Containerized environments for databases and services
+- **Git & GitHub:** Version control and collaborative development
+- **IntelliJ IDEA / CLion:** Development and debugging
+
+## Projects
+
+### 🔹 DataSorter
+A C++ backend service built with Crow that processes text files and sorts them using multiple algorithms (QuickSort, HeapSort, AVL Trees). Includes:
+- File upload handling
+- Algorithm selection via API
+- Performance measurement (execution time)
+- Structured response DTOs
+
+### 🔹 RetailControl (In Progress)
+A Spring Boot backend system with:
+- Mixed database architecture (MySQL + MongoDB)
+- REST API design
+- Exception handling and validation
+- Scalable backend structure
+
+## What You’ll Find in My Repositories
+
+- Well-structured academic projects organized by subject and semester
+- Backend-focused applications and experiments
+- Implementations of algorithms and data structures
+- Practical tools and utilities
+
+## Interests
+
+I am particularly interested in:
+- Backend development and scalable architectures
+- Artificial intelligence and applied machine learning
+- Performance optimization and system efficiency
+- Learning new technologies and applying them in real-world scenarios
 
 ## GitHub Analytics
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThomasSerna&layout=compact&langs_count=8&theme=algolia"/>
 
 ---
 
-Contáctame en mi [LinkedIn](https://www.linkedin.com/in/thomas-serna-saldarriaga-607650239/)
-
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/thomasserna/)
