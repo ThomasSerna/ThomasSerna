@@ -13,7 +13,7 @@ I am a Systems Engineering student at Universidad EAFIT, currently in my third s
 ### Programming Languages
 - **Java:** Solid understanding of OOP, collections, exception handling, and application structure
 - **Python:** Automation, scripting, data handling, and small-scale tools
-- **C++:** Experience building backend services (e.g., file processing and sorting systems using Crow)
+- **C++:** Experience building backend services
 
 ### Backend & Frameworks
 - **Spring Boot:** REST API development, dependency injection, layered architecture
@@ -25,16 +25,9 @@ I am a Systems Engineering student at Universidad EAFIT, currently in my third s
 - **MongoDB:** NoSQL document-based storage and integration
 - Experience working with hybrid persistence systems (SQL + NoSQL)
 
-### Software Engineering Concepts
-- Software Development Life Cycle (SDLC)
-- Design patterns and clean architecture principles
-- UML diagrams and system modeling
-- Exception handling and API response standardization
-
 ### Tools & Technologies
 - **Docker & Docker Compose:** Containerized environments for databases and services
 - **Git & GitHub:** Version control and collaborative development
-- **IntelliJ IDEA / CLion:** Development and debugging
 
 ## Projects
 
@@ -45,19 +38,12 @@ A C++ backend service built with Crow that processes text files and sorts them u
 - Performance measurement (execution time)
 - Structured response DTOs
 
-### 🔹 RetailControl (In Progress)
+### 🔹 RetailControl
 A Spring Boot backend system with:
 - Mixed database architecture (MySQL + MongoDB)
 - REST API design
 - Exception handling and validation
 - Scalable backend structure
-
-## What You’ll Find in My Repositories
-
-- Well-structured academic projects organized by subject and semester
-- Backend-focused applications and experiments
-- Implementations of algorithms and data structures
-- Practical tools and utilities
 
 ## Interests
 
