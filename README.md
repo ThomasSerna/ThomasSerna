@@ -53,9 +53,15 @@ I am particularly interested in:
 - Performance optimization and system efficiency
 - Learning new technologies and applying them in real-world scenarios
 
-## GitHub Analytics
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThomasSerna&layout=compact&langs_count=8&theme=algolia"/>
-
 ---
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/thomasserna/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSerna&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats" />
+</p>
+
+---
+<p align="center">
+  <a href="https://www.linkedin.com/in/thomasserna/">
+    <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
