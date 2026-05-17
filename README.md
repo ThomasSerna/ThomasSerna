@@ -1,57 +1,32 @@
 # Thomas Serna
 
-I am a Systems Engineering student at Universidad EAFIT, currently in my third semester. I am passionate about software development, backend engineering, and exploring emerging technologies, especially in artificial intelligence and distributed systems.
+Systems Engineering student at Universidad EAFIT, interested in backend development, artificial intelligence, and scalable software systems.
 
-## About Me
+## About me
 
-- 🎓 Systems Engineering, Universidad EAFIT (3rd semester)
-- 🗣️ Languages: Spanish (Native) | English (C1) | French (A1)
-- 💡 Strong interest in backend development, system design, and AI
+- 🎓 Systems Engineering student at Universidad EAFIT
+- 💻 Focused on backend development and system design
+- 🤖 Interested in AI, performance, and distributed systems
+- 🗣️ Spanish native | English C1 | French A1
 
-## Technical Skills
+## Tech stack
 
-### Programming Languages
-- **Java:** Solid understanding of OOP, collections, exception handling, and application structure
-- **Python:** Automation, scripting, data handling, and small-scale tools
-- **C++:** Experience building backend services
-
-### Backend & Frameworks
-- **Spring Boot:** REST API development, dependency injection, layered architecture
-- **Spring Security:** Authentication and authorization handling
-- **RESTful API Design:** Clean endpoint structuring and best practices
-
-### Databases & Persistence
-- **MySQL:** Relational modeling and queries
-- **MongoDB:** NoSQL document-based storage and integration
-- Experience working with hybrid persistence systems (SQL + NoSQL)
-
-### Tools & Technologies
-- **Docker & Docker Compose:** Containerized environments for databases and services
-- **Git & GitHub:** Version control and collaborative development
+**Languages:** Java, Python, C++  
+**Backend:** Spring Boot, Spring Security, REST APIs  
+**Databases:** MySQL, MongoDB  
+**Tools:** Docker, Git, GitHub
 
 ## Projects
 
-### 🔹 DataSorter
-A C++ backend service built with Crow that processes text files and sorts them using multiple algorithms (QuickSort, HeapSort, AVL Trees). Includes:
-- File upload handling
-- Algorithm selection via API
-- Performance measurement (execution time)
-- Structured response DTOs
+### DataSorter
+C++ backend service built with Crow for sorting text files using algorithms such as QuickSort, HeapSort, and AVL Trees.
 
-### 🔹 RetailControl
-A Spring Boot backend system with:
-- Mixed database architecture (MySQL + MongoDB)
-- REST API design
-- Exception handling and validation
-- Scalable backend structure
+### RetailControl
+Spring Boot backend system using MySQL and MongoDB, with REST APIs, validation, and exception handling.
 
 ## Interests
 
-I am particularly interested in:
-- Backend development and scalable architectures
-- Artificial intelligence and applied machine learning
-- Performance optimization and system efficiency
-- Learning new technologies and applying them in real-world scenarios
+Backend engineering, AI, scalable architectures, and performance optimization.
 
 ---
 
@@ -59,9 +34,8 @@ I am particularly interested in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSerna&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats" />
 </p>
 
----
 <p align="center">
   <a href="https://www.linkedin.com/in/thomasserna/">
-    <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
